@@ -1077,7 +1077,7 @@ fi
  <img width="1303" alt="funcex" src="https://github.com/user-attachments/assets/7c14a936-640d-4122-b8b7-a0fe9c953043" />
 
  ./funcex.sh 1 2
-![alt text](img/funcex123.png)
+![image](https://github.com/user-attachments/assets/65a071e2-fc12-4539-a519-60de9c24e2e6)
  
 cat argshift.sh
 ```bash
@@ -1091,7 +1091,7 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
-![alt text](img/argshift.png)
+![image](https://github.com/user-attachments/assets/4a12e3b5-2874-45e6-9d36-bb73b0224ff9)
 
  cat argshift1.sh
 ```bash
@@ -1109,7 +1109,7 @@ done
 $ chmod 777 argshift1.sh
 ## OUTPUT
 $ ./argshift1.sh 1 2 3
-![alt text](img/argshift1.png)
+![image](https://github.com/user-attachments/assets/3d1d2619-1a29-49c4-987b-702b62479168)
 
 cat argshift3.sh
 ```bash
@@ -1123,7 +1123,7 @@ set +xch
 ```
 ## OUTPUT
  ./argshift3.sh 1 2 3
- ![alt text](img/argshift3.png)
+![image](https://github.com/user-attachments/assets/44d1a2ef-ad86-46cc-813b-04dc27c98def)
  
 cat > nc.awk
 ```bash
@@ -1154,7 +1154,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
-![alt text](img/awk.png)
+![alt text](img/awk.png)![image](https://github.com/user-attachments/assets/eee0bac8-2c7f-471a-833c-dfd6bb08a8a4)
+
  
 cat > palindrome.sh
 ```bash
@@ -1182,7 +1183,8 @@ else
 fi
 ```
 ## OUTPUT 
-![alt text](img/pallindrome.png)
+
+![image](https://github.com/user-attachments/assets/b1e3e280-1c2d-4c17-9049-1799012ce4a3)
 
 # RESULT:
 The Commands are executed successfully.
